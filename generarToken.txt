@@ -1,0 +1,7 @@
+Con postman realizar peticion POST a https://accounts.spotify.com/api/token
+  key					value
+grant_type     	client_credentials
+client_id		34a78535ce814078b10dfb096a6cbe98
+client_secret	a19c448e65cf4e2aaa1fa5355b34fe82
+
+Generara un acces token, mismo que deberas remplazar en el archivo del proyecto en el archivo services/spotify.service
